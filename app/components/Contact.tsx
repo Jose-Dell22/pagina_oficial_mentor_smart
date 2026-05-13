@@ -145,7 +145,7 @@ export default function Contact() {
 
           {/* GITHUB */}
           <a
-            href="https://github.com/TU_USUARIO"
+            href="https://github.com/Jose-Dell22"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-slate-950 border border-white/10 rounded-[2rem] p-8 hover:border-slate-400/40 hover:-translate-y-2 transition duration-300 text-center"
