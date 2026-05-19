@@ -54,6 +54,10 @@ const softwareServices = [
     title: "Programación",
     icon: <Code2 size={40} />,
   },
+  {
+  title: "Desarrollo de Páginas Web",
+  icon: <Laptop size={40} />,
+},
 ];
 
 /* =========================
